@@ -1,0 +1,317 @@
+#head{
+	color: black;
+	font-size: 50px;
+}
+
+body{
+	background-image: url("images/image2.jpg");
+}
+#main{
+	background-image: url("images/logo.jpg");
+    background-color: black;
+    position: absolute;
+	width: 200px;
+	height: 188px;
+	left: -1px;
+	top: 4px;
+    background-size: cover;
+}
+#menu{
+	position: absolute;
+	width: 1118px;
+	height: 188px;
+	left: 200px;
+	top: 8px;
+}
+#menuicon{
+	position: absolute;
+	width: 102px;
+	height: 188px;
+	left: 1317px;
+	top: 8px;
+	background-color: yellow;
+
+}
+h1{
+	text-align: center;
+}
+button{
+
+background: #8DDBD6;
+border-radius: 40%;
+border: none;
+margin: 50px;
+padding: 10px;
+
+}
+#photoframe{
+	position: absolute;
+width: 462px;
+height: 477px;
+left: 199px;
+top: 330px;
+ background-size: cover;
+}
+#websitehead{
+	position: absolute;
+width: 679px;
+height: 152px;
+left: 708px;
+top: 310px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #000000;
+}
+
+#websitedesc{
+	padding: 40px;
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 47px;
+text-align: center;
+
+color: #000000;
+
+}
+
+#babyName{
+	position: absolute;
+width: 493px;
+height: 113px;
+left: 493px;
+top: 264px;
+
+}
+
+#babyNameText{
+	font-family: 'Kaisei Decol';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 70px;
+text-align: center;
+
+color: #000000;
+
+}
+
+#aarohi{
+	position: absolute;
+width: 550px;
+height: 205px;
+left: 118.35px;
+top: 635.94px;
+padding: 30px;
+background: #BF9BEE;
+border-radius: 75px;
+transform: rotate(-34.53deg);
+}
+
+#aarohiText{
+font-family: 'Kumar One';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 114px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+color: #000000;
+}
+
+#meaningOfAarohi{
+
+	position: absolute;
+width: 566px;
+height: 293px;
+left: 853px;
+top: 425px;
+}
+
+#meaningDesc{
+	font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 58px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+}
+
+#galleryDesc{
+	position: absolute;
+	width: 1289px;
+	height: 67px;
+	left: 85px;
+	top: 246px;
+
+}
+
+#galleryDescText{
+	font-family: 'Inder';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #000000;
+}
+
+#photo1{
+	position: absolute;
+	width: 341px;
+	height: 531px;
+	left: 55px;
+	top: 369px;
+	background-image: url('images/image8.jpg');
+	background-size: cover;
+}
+
+#photo2{
+	position: absolute;
+	width: 584.71px;
+	height: 304px;
+	left: 424px;
+	top: 369px;
+	background-size: cover;
+}
+
+#photo3{
+	position: absolute;
+width: 336px;
+height: 213.17px;
+left: 1062px;
+top: 373px;
+background-size: cover;
+}
+
+#photo4{
+	position: absolute;
+	width: 359.28px;
+	height: 223px;
+	left: 1039px;
+	top: 647px;
+	background-size: cover;
+}
+
+#text{
+	position: absolute;
+	width: 517px;
+	height: 162px;
+	left: 465px;
+	top: 726px;
+}
+
+#hereText{
+	font-family: 'Inder';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 40px;
+	text-align: center;
+
+	color: #000000;
+}
+
+#babyDiv{
+	position: absolute;
+	width: 383px;
+	height: 419px;
+	left: 55px;
+	top: 253px;
+	background-size: cover;
+
+}
+#parentDiv{
+	position: absolute;
+	width: 836px;
+	height: 306px;
+	left: 529px;
+	top: 266px;
+	background-size: cover;
+
+}
+#aarohiParent{
+position: absolute;
+width: 470px;
+height: 81px;
+left: 747px;
+top: 590px;
+}
+
+#aarohiParentText{
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+
+}
+#parentDesc{
+	position: absolute;
+width: 792px;
+height: 226px;
+left: 576px;
+top: 669px;
+}
+
+#parentDescText{
+	font-family: 'Inter';
+	font-style: italic;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 39px;
+	color: #000000;
+}
+#birthdayDiv{
+	position: absolute;
+	width: 713px;
+	height: 157px;
+	left: 676px;
+	top: 336px;
+}
+#birthdayDivText{
+	font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #000000;
+}
+
+#birthdayDatesDesc{
+	position: absolute;
+width: 699px;
+height: 370px;
+left: 720px;
+top: 520px;
+}
+
+#birthdatDateDescText{
+	font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
